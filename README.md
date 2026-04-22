@@ -30,7 +30,7 @@ Each skill has a companion Python tool that does the deterministic work. Claude 
 Clone this repo, then copy the contents into your own Claude Code workspace:
 
 ```bash
-git clone https://github.com/<org>/geo-audit-skill.git
+git clone https://github.com/multiplai-ai/geo-audit-skill.git
 cd geo-audit-skill
 
 # Copy the skills, tools, and frameworks into your own workspace
