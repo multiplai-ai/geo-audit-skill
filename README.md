@@ -144,7 +144,7 @@ Paid subscribers to [Marketer in the Loop](https://mktrintheloop.com) get access
 
 It's the same skill stack used to run strategy for agency clients. Free subscribers get one skill a week. Paid subscribers get the whole library.
 
-[Get access to all 47 skills →](https://multiplai.co/skills)
+[Get access to all 47 skills →](https://www.multiplaigrowth.com/cursor-cmo)
 
 ---
 
@@ -175,4 +175,4 @@ MIT. Use it, modify it, ship it.
 
 ---
 
-*Built by Hanna Huffman at [MultiplAI Growth Systems](https://multiplai.co). Questions? Reply to any [Marketer in the Loop](https://mktrintheloop.com) email.*
+*Built by Hanna Huffman at [MultiplAI Growth Systems](https://www.multiplaigrowth.com/). Questions? Reply to any [Marketer in the Loop](https://mktrintheloop.com) email.*
